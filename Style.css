@@ -165,3 +165,10 @@ input {
     color: red;
     font-size: 30px;
 }
+
+.img {
+    right: 20px;
+    width: 50px;
+    position: absolute;
+    top: 150px;
+}
